@@ -6,6 +6,6 @@
 - ⚡ Fun fact : learning linux is hard and fun 😄
 - 🤔 I'm looking for help with smart people around, to make me know more about node
 
-## I build a community on discord : `NODE NODE AN`
-- Discord link is [here](https://discord.gg/mSecguCyht)
--->
+### I build a community on discord :
+ `NODE NODE AN`
+- Discord link is [you can click the link here](https://discord.gg/mSecguCyht) 😄
