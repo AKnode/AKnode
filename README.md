@@ -1,4 +1,5 @@
-### Hi I'm AKnode 👋
+### Hi I'm AKnode , nice to meet you 👋
+`I come from Indonesia`
 
 - 🔭 I’m currently working on TESTNET NODE
 - 🌱 I’m currently learning LINUX
